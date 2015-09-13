@@ -1,0 +1,32 @@
+debug_mode=1
+---- -------------------------------------------
+---- wifi
+wifi_ssid=STEP_N1
+wifi_password=Qwerty123?
+----
+---- wifi_mode 0: WPA/WPA2, 1: WEP
+wifi_mode=0
+---- wifi_key_index only for WEP mode
+wifi_key_index=0
+----
+---- -------------------------------------------
+---- infrared pin (set to 0 if unused)
+in1_pin=5
+in1_cmd=111
+in1_second=10
+in1_priority=10
+----
+in2_pin=6
+in2_cmd=112
+in2_second=9
+in2_priority=11
+----
+in3_pin=0
+in3_cmd=113
+in3_second=10
+in3_priority=10
+---- -------------------------------------------
+---- cmproxy
+cmproxy_ip=192.168.1.135
+cmproxy_port=13002
+---- -------------------------------------------

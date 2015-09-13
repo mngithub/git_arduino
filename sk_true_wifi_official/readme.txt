@@ -1,0 +1,3 @@
+- wifi ต้องใช้ Arduino 1.0.2 ในการเขียนเท่านั้น
+- ระวังการใช้ memory ในการเขียนโปรแกรมมากไป จะทำให้ error แบบ unexpected behavior 
+- service ตั้งใน windows ให้ auto restart ด้วย 
